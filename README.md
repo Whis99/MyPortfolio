@@ -1,4 +1,4 @@
-# Alex Walker Portfolio
+# Hans Whisler Augustin
 
 A modern, responsive portfolio website built with React, Material UI, and Vite. Features a beautiful dark/light mode toggle and a clean, professional design.
 
